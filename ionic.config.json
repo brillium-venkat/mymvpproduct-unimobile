@@ -1,0 +1,7 @@
+{
+  "name": "mymvpproduct-unimobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
